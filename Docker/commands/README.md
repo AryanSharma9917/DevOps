@@ -188,8 +188,8 @@ docker history <image-name/id>
 
 ```
 docker image tag <image-name:tag> <new-image-name:tag>
-docker image tag nginx pradumna/nginx:hello
-docker image tag ubuntu:18.04 pradumna/ubuntu:example
+docker image tag nginx aryan/nginx:hello
+docker image tag ubuntu:18.04 aryan/ubuntu:example
 ```
 
 ### Docker Volume
