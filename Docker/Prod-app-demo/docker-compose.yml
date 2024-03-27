@@ -1,0 +1,8 @@
+version: '1.1'
+
+services:
+  drupal:
+    image: custom-drupal:latest
+
+  postgres:
+    image: postgres:14.3
