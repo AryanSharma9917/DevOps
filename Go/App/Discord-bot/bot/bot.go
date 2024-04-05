@@ -8,10 +8,7 @@ import (
 	"github.com/bwmarrin/discordgo"
 )
 
-var (
-	BotID string
-	goBot *discordgo.Session
-)
+var BotID string
 
 type Answer struct {
 	OriginalChannelID string
