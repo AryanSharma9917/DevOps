@@ -59,7 +59,7 @@ func messageHandler(s *discordgo.Session, m *discordgo.MessageCreate) {
 	if m.Author.ID == BotID || m.Author.Bot {
 		return
 	}
-	
+
 	args := strings.Split(m.Content, " ")
 	if args[0] != config.BotPrefix {
 		return
@@ -83,7 +83,7 @@ func messageHandler(s *discordgo.Session, m *discordgo.MessageCreate) {
 	if args[1] == "author" {
 
 		author := discordgo.MessageEmbedAuthor{
-			Name: "Pradumna Saraf",
+			Name: "Aryan Sharma",
 			URL:  "https://os.aryansharma9917.dev",
 		}
 
