@@ -25,7 +25,7 @@ func main() {
 		Scheme:   "https",
 		Host:     "aryansharma9917.dev",
 		Path:     "/services",
-		RawQuery: "user=pradumna",
+		RawQuery: "user=aryan",
 	}
 
 	// String() method is used to convert the url.URL type to string

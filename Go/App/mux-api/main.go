@@ -34,7 +34,7 @@ func main() {
 		CourseId:    "2",
 		CourseName:  "ReactJs",
 		CoursePrice: 299,
-		Author:      &Author{Fullname: "Pradumna", Website: "test.com"},
+		Author:      &Author{Fullname: "aryan", Website: "test.com"},
 	}
 	myCourses1 := Course{
 		CourseId:    "4",

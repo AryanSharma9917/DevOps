@@ -1,6 +1,6 @@
 #!/bin/bash
 
-name="Pradumna"
+name="aryan"
 
 echo "Hi $name"
 echo "You are looking good $name"

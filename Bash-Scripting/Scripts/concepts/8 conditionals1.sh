@@ -22,7 +22,7 @@ read number
 beast=$(( $RANDOM % 2 ))
 
 if [ $number == $beast -o $number == "cheat" ]; then
-    if [ $USER == "pradumnasaraf" ]; then
+    if [ $USER == "aryansharma9917" ]; then
         echo "You have slain the beast!"
     else
         echo "You have been slain by the beast!"

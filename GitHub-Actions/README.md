@@ -164,7 +164,7 @@ The `github` context is available to you in any workflow or action you create on
 - `github.event_name` - The name of the webhook event that triggered the workflow.
 - `github.sha` - The commit SHA that triggered the workflow.
 - `github.ref` - The branch or tag ref that triggered the workflow.
-- `github.repository` - The owner and repository name. For example, `Pradumnasaraf/DevOps`.
+- `github.repository` - The owner and repository name. For example, `aryansharma9917/DevOps`.
 - `github.actor` - The name of the person or app that initiated the workflow.
 - `github.job` - The name of the job that's currently running.
 - `github.run_number` - A unique number for each run of a particular workflow in a repository. This number begins at 1 for the workflow's first run, and increments with each new run. This number does not change if you re-run the workflow run.
@@ -179,7 +179,7 @@ We can set environment variables in the workflow file using the `env` keyword. W
 
 ```yaml
 env:
-  MY_NAME: "Pradumna"
+  MY_NAME: "aryan"
 ```
 
 ### Secrets

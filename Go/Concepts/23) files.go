@@ -10,7 +10,7 @@ func main() {
 
 	// Process to create, write and read a file
 
-	content := "Hey I am Pradumna"
+	content := "Hey I am aryan"
 
 	//"." means current directory
 	file, err := os.Create("./hello.txt")

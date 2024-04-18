@@ -1,7 +1,7 @@
 ### Key Value pair
 
 ```yaml
-Name: "Pradumna Saraf"
+Name: "aryan Saraf"
 1: "This a list"
 ```
 
@@ -22,7 +22,7 @@ cities: [new delhi, patna,gujrat]
 ### String and Variables
 
 ```yaml
-name: Pradumna Saraf
+name: aryan Saraf
 fruit: "Mango"
 job: 'Advocate'
 age: 65
@@ -51,7 +51,7 @@ message: >
 ### Nested Mapping
 
 ```yaml
-names: Pradumna
+names: aryan
 role:
   age: 22
   job: student
