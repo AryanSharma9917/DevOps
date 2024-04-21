@@ -109,7 +109,7 @@ stage('Building the image') {
     expression { BRANCH_NAME == 'main' }
     }
     steps {
-    sh 'docker build -t pradumnasaraf/devops:latest .'
+    sh 'docker build -t aryansharma9917/devops:latest .'
     }
 }
 ```
@@ -164,7 +164,7 @@ The parameters directive is used to define the parameters required for the pipel
 
 ```jenkinsfile
 parameters {
-    string(name: 'NAME', defaultValue: 'pradumnasaraf', description: 'Enter your name')
+    string(name: 'NAME', defaultValue: 'aryansharma9917', description: 'Enter your name')
     booleanParam(name: 'DEBUG', defaultValue: true, description: 'Enable debug mode')
     choice(name: 'VERSION', choices: ['1.0', '2.0', '3.0'], description: 'Select version')
 }

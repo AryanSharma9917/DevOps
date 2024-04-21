@@ -5,8 +5,8 @@ YAML is a human-readable data serialization language. It is commonly used for co
 Eg:
 
 ```yaml
-name: Pradumana
-age: 21
+name: Aryan 
+age: 24
 address: 
   city: Bangalore
   state: Karnataka
