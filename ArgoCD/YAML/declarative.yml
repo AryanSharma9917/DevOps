@@ -10,7 +10,7 @@ spec:
     project: default
     source:
         path: ./manifest # This is the path where the manifest is present
-        repoURL: https://github.com/sarafpradumna/argo-test # This is the repo where the manifest is present
+        repoURL: https://github.com/aryansharma9917/argo-test # This is the repo where the manifest is present
         targetRevision: HEAD
     syncPolicy:
         automated:
