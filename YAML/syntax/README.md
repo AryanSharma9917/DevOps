@@ -1,7 +1,7 @@
 ### Key Value pair
 
 ```yaml
-Name: "aryan Saraf"
+Name: "Aryan Sharma"
 1: "This a list"
 ```
 
@@ -22,7 +22,7 @@ cities: [new delhi, patna,gujrat]
 ### String and Variables
 
 ```yaml
-name: aryan Saraf
+name: Aryan Sharma
 fruit: "Mango"
 job: 'Advocate'
 age: 65
