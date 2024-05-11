@@ -1,6 +1,4 @@
-# Devops
-
-## WIP (work in progress!)<h1 align="center"> DevOps </h1>
+<h1 align="center"> DevOps </h1>
 
 <p align="center"> Contains all my learning related to DevOps tools and tech.</p>
 
