@@ -23,7 +23,7 @@
 
 <br>
 
-## GitHub Actions
+## GitHub Actions :
 
 <img align="right" src="https://user-images.githubusercontent.com/51878265/211621722-c2ddc389-6e4e-4769-9dac-f18f8e71fed3.png" height="100" alt="GitHub Action"> 
 
