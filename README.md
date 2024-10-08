@@ -75,6 +75,7 @@
 - [Notes + Learning Resources](Go/README.md)
 - [Concepts](https://github.com/AryanSharma9917/DevOps/tree/main/Go/Concepts)
 - [Practice App](https://github.com/AryanSharma9917/DevOps/tree/main/Go/App)
+- [Testing and basics](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/)
 
 <br>
 
